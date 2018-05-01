@@ -29,6 +29,6 @@ Router.create({
 
 
 # TODOs
-[ ] package.json
-[ ] tests
-[ ] installation instructions
+- [ ] package.json
+- [ ] tests
+- [ ] installation instructions
