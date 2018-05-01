@@ -4,7 +4,10 @@ Because all the other routers out there either were too complicated or were too
 ingrained as components in the view layer. This is a plain JavaScript object you
 can use however you want.
 
-# Router usage
+# IMPORTANT
+
+This repo is not yet working as a Node module.
+# Usage
 
 ``` JavaScript
 import Router from "./router";
