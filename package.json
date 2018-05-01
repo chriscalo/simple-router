@@ -1,0 +1,10 @@
+{
+  "name": "simple-router",
+  "version": "0.0.1",
+  "description": "A simple router built on top of the History API",
+  "main": "index.js",
+  "repository": "https://github.com/chriscalo/simple-router.git",
+  "author": "Chris Calo <chris.calo@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
