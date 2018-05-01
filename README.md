@@ -26,3 +26,9 @@ Router.create({
   },
 }).init();
 ```
+
+
+# TODOs
+[ ] package.json
+[ ] tests
+[ ] installation instructions
