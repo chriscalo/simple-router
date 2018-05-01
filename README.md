@@ -33,5 +33,6 @@ Router.create({
 
 # TODOs
 - [x] package.json
+- [ ] webpack
 - [ ] tests
 - [ ] installation instructions
